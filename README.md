@@ -1,4 +1,4 @@
-# assignment2.1
+# assignment1.3
 1. What are the different methods to call a function in R? 
 
 ans:First, you use () as usual, to denote a call to a function, immediately after the keyword function : this can specify the argument, in the example x ;
